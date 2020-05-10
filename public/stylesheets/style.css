@@ -1,0 +1,43 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+#news p{
+    overflow:hidden;
+    text-overflow:ellipsis;
+    white-space:nowrap; 
+}
+
+#container {
+    height: 40%; 
+    min-width: 310px; 
+    /* max-width: 800px;  */
+    margin: 0 auto; 
+}
+.loading {
+    margin-top: 10em;
+    text-align: center;
+    color: gray;
+}
+
+#newsfeed {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.red{
+  color: red;
+}
+
+.green{
+  color: green;
+}
+
+table {
+  background-color: #c2c2c2;
+}
